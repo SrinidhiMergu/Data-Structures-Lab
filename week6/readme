@@ -1,0 +1,13 @@
+Write a program that implement stack (its operations) using
+A. Arrays  
+Implement following operations
+i) Push  
+ii)Pop
+iii) Is_Stack_Full  (stack overflow)
+iv) Is_Stack_Empty (Stack underflow)
+
+B. Pointers 
+Implement following operations
+i) Push  
+ii)Pop
+iii) Is_Stack_Empty (stack underflow)
